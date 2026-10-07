@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ronaldolsouza
-- 👀 I’m interested in Quality Assurance
-- 🌱 I’m currently learning Cypress, Java, JavaScript, Cucumber, and many others tools. 
-- 🌱 Current working at NTT Data LATAM & Europe on Santander Bank project's;
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Java, JavaScript, Python, and many others tools. 
+- 🌱 Current working at F1rst (Santander);
